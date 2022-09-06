@@ -8,6 +8,6 @@ In this project, I created a simple Search Engine using Page Rank Algorithm. The
 
 -The connections between pages are represented as a graph
 
-#C++  #Page Rank Algorithm  #Graphs
+#C++  #Page_Rank_Algorithm  #Graphs
 
 ![image](https://user-images.githubusercontent.com/86338555/188729503-e0d6b4a6-94c4-48c9-b957-8b2faf90c5e2.png)
